@@ -62,7 +62,7 @@ Open [http://localhost:3000](http://localhost:3000)
 1. **Clone the repository**
    ```bash
    git clone https://github.com/shmuye/Todo.git
-   cd Todo-app
+   cd Todo
    ```
 
 2. **Install dependencies**
